@@ -1,8 +1,8 @@
 {
-  "name": "insight-api-dash",
-  "description": "A Dash blockchain REST and web socket API service for Bitcore Node.",
+  "name": "insight-api-dinero",
+  "description": "A Dinero blockchain REST and web socket API service for Bitcore Node.",
   "version": "0.4.5",
-  "repository": "git://github.com/dashpay/insight-api-dash.git",
+  "repository": "git://github.com/dinerocoin/insight-api-dinero.git",
   "contributors": [
     {
       "name": "Gustavo Cortez",
@@ -38,18 +38,18 @@
     }
   ],
   "bugs": {
-    "url": "https://github.com/dashpay/insight-api-dash/issues"
+    "url": "https://github.com/dinerocoin/insight-api-dinero/issues"
   },
-  "homepage": "https://github.com/dashpay/insight-api-dash",
+  "homepage": "https://github.com/dinerocoin/insight-api-dinero",
   "license": "MIT",
   "keywords": [
     "insight",
     "insight api",
     "blockchain",
-    "dash api",
+    "dinero api",
     "blockchain api",
     "json",
-    "bitcore-dash"
+    "bitcore-dinero"
   ],
   "engines": {
     "node": ">=0.12.0"
@@ -61,8 +61,8 @@
   "bitcoreNode": "lib",
   "dependencies": {
     "async": "*",
-    "bitcore-lib-dash": "^0.13.20",
-    "bitcore-message-dash": "^1.0.5",
+    "bitcore-lib-dinero": "^0.13.20",
+    "bitcore-message-dinero": "^1.0.5",
     "body-parser": "^1.13.3",
     "compression": "^1.6.1",
     "lodash": "^2.4.1",
