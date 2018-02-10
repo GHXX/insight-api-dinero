@@ -61,8 +61,8 @@
   "bitcoreNode": "lib",
   "dependencies": {
     "async": "*",
-    "bitcore-lib-dinero": "^0.13.20",
-    "bitcore-message-dinero": "^1.0.5",
+    "bitcore-lib-dinero": "dinerocoin/bitcore-lib-dinero",
+    "bitcore-message-dinero": "dinerocoin/bitcore-message-dinero",
     "body-parser": "^1.13.3",
     "compression": "^1.6.1",
     "lodash": "^2.4.1",
