@@ -1,7 +1,7 @@
 {
   "name": "insight-api-dinero",
   "description": "A Dinero blockchain REST and web socket API service for Bitcore Node.",
-  "version": "0.4.5",
+  "version": "0.6.0",
   "repository": "git://github.com/dinerocoin/insight-api-dinero.git",
   "contributors": [
     {
@@ -65,7 +65,7 @@
     "bitcore-message-dinero": "dinerocoin/bitcore-message-dinero",
     "body-parser": "^1.13.3",
     "compression": "^1.6.1",
-    "lodash": "^2.4.1",
+    "lodash": "=4.17.1",
     "lru-cache": "^4.0.1",
     "morgan": "^1.7.0",
     "request": "^2.64.0"
