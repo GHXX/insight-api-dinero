@@ -21,7 +21,7 @@
 </div>
 
 
-This is a backend-only service. If you're looking for the web frontend application, take a look at https://github.com/dashpay/insight-ui-dinero.
+This is a backend-only service. If you're looking for the web frontend application, take a look at https://github.com/dinerocoin/insight-ui-dinero.
 
 ## Table of Content
 - [Getting Started](#getting-started)
